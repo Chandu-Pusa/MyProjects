@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Weather App</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="mb-4 text-center">Weather Checker 🌦️</h1>
+
+        <form class="mb-4">
+            <div class="form-group">
+                <input type="text" placeholder="Enter city name" class="form-control" disabled>
+            </div>
+            <button type="submit" class="btn btn-primary btn-block" disabled>Get Weather</button>
+        </form>
+
+        <!-- Mock weather result -->
+        <div class="card p-3">
+            <h3>Weather in Hyderabad, IN</h3>
+            <p><strong>Clouds</strong> - broken clouds</p>
+            <p>🌡️ Temp: 28.5°C</p>
+            <p>💨 Wind: 3.5 m/s</p>
+            <p>💧 Humidity: 70%</p>
+            <img src="http://openweathermap.org/img/wn/04d@2x.png" alt="weather icon">
+        </div>
+
+        <!-- Optional error alert -->
+        <!--
+        <div class="alert alert-danger mt-3">
+            Could not fetch weather data. Try again later.
+        </div>
+        -->
+    </div>
+</body>
+</html>
