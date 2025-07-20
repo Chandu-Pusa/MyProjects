@@ -23,13 +23,13 @@ A simple, responsive weather forecasting app built with HTML, CSS, and JavaScrip
 
 ## 🚀 Demo
 
-🌐 Live at: [https://chandu-pusa.github.io/WeatherApp](https://chandu-pusa.github.io/WeatherApp)
+🌐 Live at: [https://chandu-pusa.github.io/WeatherApp](https://weather-app-rj5b.onrender.com
+)
 
 ---
 
 ## 📸 Screenshots
-
-*(Optional — add screenshots here to showcase the UI)*
+<img width="1900" height="873" alt="Screenshot 2025-07-20 234849" src="https://github.com/user-attachments/assets/c144990d-459d-4a06-8715-6311f2377681" />
 
 ---
 
